@@ -51,7 +51,7 @@ class DsgnWrks_Bible_Gateway_Shortcode {
         ) );
     }
 
-    public function bgsearch( $attr ) {
+    public static function bgsearch( $attr ) {
         if ( !isset( $attr['passage'] ) )
             return;
 
