@@ -11,7 +11,7 @@ Version: 0.1.0
 
 class DsgnWrks_Bible_Gateway_Shortcode {
 
-    public $btn = 'bgbible'
+    public $btn = 'bgbible';
 
     public function __construct() {
         add_action( 'admin_init', array( $this, 'init' )  );
