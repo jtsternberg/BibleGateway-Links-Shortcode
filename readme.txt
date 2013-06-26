@@ -4,7 +4,7 @@ BibleGateway Links Shortcode
 Contributors: jtsternberg
 Plugin Name: BibleGateway Links Shortcode
 Plugin URI: http://dsgnwrks.pro/plugins/biblegateway-search-shortcode
-Tags: shortcode, bible, biblegateway, editor button
+Tags: shortcode, bible, biblegateway, editor, button, scripture, reference, search
 Author URI: http://about.me/jtsternberg
 Author: Jtsternberg
 Donate link: http://j.ustin.co/rYL89n
@@ -31,6 +31,11 @@ Shortcode for linking Bible references to a BibleGateway page. Links open in a s
 
 = ?? =
 * If you run into a problem or have a question, contact me ([contact form](http://j.ustin.co/scbo43) or [@jtsternberg on twitter](http://j.ustin.co/wUfBD3)). I'll add them here.
+
+== Screenshots ==
+
+1. 1) Highlight reference, 2) Optionally enter alternate text for display, 3) OK!
+2. 1) Place cursor where you want the reference, 2) Enter reference, 3) Optionally enter alternate text for display, 3) OK!
 
 == Changelog ==
 
