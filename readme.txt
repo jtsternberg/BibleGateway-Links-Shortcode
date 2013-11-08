@@ -39,6 +39,13 @@ function dsgnwrks_use_youversion() {
 	return 'youversion';
 }
 `
+* To use English Standard Version instead of NIV, you can add this filter:
+`
+apply_filters( 'dsgnwrks_bible_version', 'dsgnwrks_use_version_kjv' )
+function dsgnwrks_use_version_kjv() {
+	return 'kjv';
+}
+`
 
 == Screenshots ==
 
