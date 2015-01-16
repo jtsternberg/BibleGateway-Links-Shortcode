@@ -8,8 +8,8 @@
 **Author:** Jtsternberg  
 **Donate link:** http://j.ustin.co/rYL89n  
 **Requires at least:** 3.2  
-**Tested up to:** 3.8  
-**Stable tag:** 0.1.5  
+**Tested up to:** 4.2.0  
+**Stable tag:** 0.1.7  
 **Version:** 0.1.5  
 **License:** GPLv2 or later  
 **License URI:** http://www.gnu.org/licenses/gpl-2.0.html  
@@ -59,29 +59,10 @@ function dsgnwrks_use_version_kjv() {
 
 ## Changelog ##
 
-### 0.1.6
-* Bug fix: Settings page was only visible to Network Admins. Changed to be visible to standard Admins.
-
-### 0.1.5
-* Bug fixes, and filters available for each option.
-
-### 0.1.4
-* Popup window is centered and YouVersion window is smaller (formatting is better).
-
-### 0.1.3
-* Now with settings page to set Bible version and Bible search service. Both can be overridden with filters.
-
-### 0.1.2
-* Added a filter to be able to change the Bible version. It defaults to NIV.
-
-### 0.1.1
-* Add filters to be able to change the Bible service and Bible service url. A YouVersion service is built in, but Bible Gateway is the default.
-
-### 0.1.0
-* Launch.
-
-
-## Upgrade Notice ##
+### 0.1.7
+* Bug fix: Links were opening two new browser tabs in some scenarios.
+* Bug fix: Update youversion's search url.
+* New Feature: Option to use the bible.org scripture highlighter. This will automatically search your page for scripture references and link them.
 
 ### 0.1.6
 * Bug fix: Settings page was only visible to Network Admins. Changed to be visible to standard Admins.
